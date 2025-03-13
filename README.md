@@ -10,8 +10,7 @@ Explain Foundation models in robotics
 
 | Date  | Name  | Paper  | Code |
 | ---- | ---- | ---- | ---- |
-|  |  |  | |
-| 数据5 | 数据6 | 数据7 | 数据8 |
+|[点击这里访问GitHub](https://github.com) |  |  | |
 
 
 
