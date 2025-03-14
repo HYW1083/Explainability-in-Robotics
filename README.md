@@ -39,7 +39,7 @@ Explain Foundation models in robotics
 | Date | Venue  | Name  | Paper |
 | ---- | ---- | ---- | ---- |
 | 2024 | RLC  | DPP | [Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://openreview.net/pdf?id=umkqPTUDED#:~:text=However%2C%20these%20generalist%20policies%20have,of%20users%20to%20personalize%20the)
-
+|2025 | ICRA |Language to Map | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|
 
 ### Path Planning
 
