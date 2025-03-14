@@ -23,6 +23,7 @@ This suvery paper reviews the literature related to explainable AI in foundation
 |2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
 |2025 | EAAI | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
 |2025 | CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://gitlab.iit.it/cognitiveInteraction/explainablemultipartyconversationCVIU.git) | Italian Institute of Technology |
+|2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers]() |
 
 #### Logs
 | Date | Venue  | Paper | Project | institution | 
@@ -59,7 +60,11 @@ This suvery paper reviews the literature related to explainable AI in foundation
 | 2024 | RLC  | [Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://arxiv.org/pdf/2407.08065)| DPP | Tufts University |
 |2025 | ICRA | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|Language to Map |Toyota|
 
-### Path Planning
+### Action
+| Date | Venue  | Paper | Project | institution | 
+| ---- | ---- | ---- | ---- | ---- |
+
+
 
 
 
