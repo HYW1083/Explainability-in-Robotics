@@ -34,6 +34,20 @@ Explain Foundation models in robotics
 
 ### Planning
 
+#### Decision making (Reasoning)
+
+| Date | Venue  | Name  | Paper |
+| ---- | ---- | ---- | ---- |
+| 2024 | RLC  | DPP | [Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://openreview.net/pdf?id=umkqPTUDED#:~:text=However%2C%20these%20generalist%20policies%20have,of%20users%20to%20personalize%20the)
+
+
+### Path Planning
+
+
+
+
+
+
 
 
 
