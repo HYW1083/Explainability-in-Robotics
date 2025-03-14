@@ -1,5 +1,5 @@
 # Explainability-in-Robotics
-Explain Foundation models in robotics
+This suvery paper reviews the literature related to explainable AI in foundation models-based robotics published since 2023.
 
 ## Contents
 
@@ -8,6 +8,7 @@ Explain Foundation models in robotics
 ### Suvey papers
 | Date | Venue | Paper | Institution |
 | ---- | ---- | ---- | ---- |
+|2023 | ACM Computing Surveys | [Explainable Goal-driven Agents and Robots - A Comprehensive Review](https://dl.acm.org/doi/pdf/10.1145/3564240)|University of Malaya |
 | 2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
 
 
@@ -20,7 +21,13 @@ Explain Foundation models in robotics
 | ---- | ---- | ---- | ---- | ---- |
 |2023  | CVPR |  [CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) |[CoW](https://cow.cs.columbia.edu/) | Columbia University |
 |2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
-|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | |University of Leon |
+
+#### Logs
+| Date | Venue  | Paper | Project | institution | 
+| ---- | ---- | ---- | ---- | ---- |
+|2024 | Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of Leon |
+|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | 
+|University of Leon |
 
 
 #### Audio
