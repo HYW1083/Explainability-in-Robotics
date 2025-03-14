@@ -4,14 +4,23 @@ Explain Foundation models in robotics
 ## Contents
 
 ## Survey
+
+### Suvey papers
+| Date | Venue | Paper | Institution |
+| ---- | ---- | ---- | ---- |
+| 2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
+
+
+
 ### Perception
 
 #### Vision
 
-| Date | Venue  | Name  | Paper |
-| ---- | ---- | ---- | ---- |
-|2023  | CVPR | [CoW](https://cow.cs.columbia.edu/) | [CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) |
-|2024 | IROS | VLPG-Nav | [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | 
+| Date | Venue  | Paper | Project | institution | 
+| ---- | ---- | ---- | ---- | ---- |
+|2023  | CVPR |  [CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) |[CoW](https://cow.cs.columbia.edu/) | Columbia University |
+|2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
+|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | University of Leon |
 
 
 #### Audio
