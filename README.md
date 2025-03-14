@@ -23,14 +23,13 @@ This suvery paper reviews the literature related to explainable AI in foundation
 |2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
 |2025 | EAAI | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
 |2025 | CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://gitlab.iit.it/cognitiveInteraction/explainablemultipartyconversationCVIU.git) | Italian Institute of Technology |
-|2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers]() |
+|2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
 
 #### Logs
 | Date | Venue  | Paper | Project | institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2024 | Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of Leon |
-|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | 
-|University of Leon |
+|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | University of Leon |
 
 
 #### Audio
