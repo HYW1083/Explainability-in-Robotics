@@ -10,7 +10,7 @@ This suvery paper reviews the literature related to explainable AI in foundation
 | ---- | ---- | ---- | ---- |
 |2023 | ACM Computing Surveys | [Explainable Goal-driven Agents and Robots - A Comprehensive Review](https://dl.acm.org/doi/pdf/10.1145/3564240)|University of Malaya |
 | 2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
-
+|2025 | Arxiv | [Explainability for Vision Foundation Models: A Survey](https://arxiv.org/pdf/2501.12203)| Institut Polytechnique de Paris |
 
 
 ### Perception
@@ -21,7 +21,7 @@ This suvery paper reviews the literature related to explainable AI in foundation
 | ---- | ---- | ---- | ---- | ---- |
 |2023  | CVPR |  [CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) |[CoW](https://cow.cs.columbia.edu/) | Columbia University |
 |2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
-|2025 | EAAI | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence]() |  | BOKU University |
+|2025 | EAAI | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
 |2025 | CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://gitlab.iit.it/cognitiveInteraction/explainablemultipartyconversationCVIU.git) | Italian Institute of Technology |
 
 #### Logs
