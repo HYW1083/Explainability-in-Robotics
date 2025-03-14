@@ -57,6 +57,7 @@ This suvery paper reviews the literature related to explainable AI in foundation
 | Date | Venue  | Paper | Project | institution | 
 | ---- | ---- | ---- | ---- | ---- |
 | 2024 | RLC  | [Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://arxiv.org/pdf/2407.08065)| DPP | Tufts University |
+|2024  | Arxiv| [Social-LLaVA: Enhancing Robot Navigation through Human-Language  Reasoning in Social Spaces](https://arxiv.org/pdf/2501.09024) |[Social-LLaVA](https://cs.gmu.edu/~xiao/Research/SNEI/)  | George Mason University  |
 |2025 | ICRA | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|Language to Map |Toyota|
 
 ### Action
