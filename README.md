@@ -8,11 +8,8 @@ This suvery paper reviews the literature related to explainable AI in foundation
 ### Suvey papers
 | Date | Venue | Paper | Institution |
 | ---- | ---- | ---- | ---- |
-|2019  | 
 |2023 | ACM Computing Surveys | [Explainable Goal-driven Agents and Robots - A Comprehensive Review](https://dl.acm.org/doi/pdf/10.1145/3564240)|University of Malaya |
-
 | 2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
-
 |2025 | Arxiv | [Explainability for Vision Foundation Models: A Survey](https://arxiv.org/pdf/2501.12203)| Institut Polytechnique de Paris |
 
 
