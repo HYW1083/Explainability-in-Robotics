@@ -8,8 +8,11 @@ This suvery paper reviews the literature related to explainable AI in foundation
 ### Suvey papers
 | Date | Venue | Paper | Institution |
 | ---- | ---- | ---- | ---- |
+|2019  | 
 |2023 | ACM Computing Surveys | [Explainable Goal-driven Agents and Robots - A Comprehensive Review](https://dl.acm.org/doi/pdf/10.1145/3564240)|University of Malaya |
+
 | 2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
+
 |2025 | Arxiv | [Explainability for Vision Foundation Models: A Survey](https://arxiv.org/pdf/2501.12203)| Institut Polytechnique de Paris |
 
 
@@ -29,7 +32,7 @@ This suvery paper reviews the literature related to explainable AI in foundation
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2024 | Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of Leon |
-|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | University of Leon |
+|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | | University of Leon |
 
 
 #### Audio
