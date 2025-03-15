@@ -8,8 +8,9 @@ This suvery paper reviews the literature related to explainable AI in foundation
 ### Suvey papers
 | Date | Venue | Paper | Institution |
 | ---- | ---- | ---- | ---- |
+|2022 | Advanced Robotics| [Explainable autonomous robots: a survey and perspective](https://doi.org/10.1080/01691864.2022.2029720) | University of Electro-Communications |
 |2023 | ACM Computing Surveys | [Explainable Goal-driven Agents and Robots - A Comprehensive Review](https://dl.acm.org/doi/pdf/10.1145/3564240)|University of Malaya |
-| 2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
+|2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
 |2025 | Arxiv | [Explainability for Vision Foundation Models: A Survey](https://arxiv.org/pdf/2501.12203)| Institut Polytechnique de Paris |
 
 
@@ -60,6 +61,12 @@ This suvery paper reviews the literature related to explainable AI in foundation
 |2024  | Arxiv| [Social-LLaVA: Enhancing Robot Navigation through Human-Language  Reasoning in Social Spaces](https://arxiv.org/pdf/2501.09024) |[Social-LLaVA](https://cs.gmu.edu/~xiao/Research/SNEI/)  | George Mason University  |
 |2024 | Arxiv |[Trustworthy Conceptual Explanations for Neural Networks in Robot Decision-Making](https://arxiv.org/pdf/2409.10733)|[BaTCAVe](https://github.com/aditya-taparia/BaTCAVe)| Arizona State University |
 |2025 | ICRA | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|Language to Map |Toyota|
+
+#### Kownleged-based reasoning
+| Date | Venue  | Paper | Project | Institution | 
+| ---- | ---- | ---- | ---- | ---- |
+| 2024 | [EAAI](https://doi.org/10.1201/9781003355281) | [Integrated Knowledge-Based Reasoning and Data-Driven Learning for Explainable Agency in Robotics](https://homepages.inf.ed.ac.uk/msridhar/Papers/bookchap23_explAgencyRobotics.pdf)| | University of Birmingham |
+
 
 ### Action
 | Date | Venue  | Paper | Project | Institution | 
