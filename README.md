@@ -1,5 +1,7 @@
 # Explainability-in-Robotics
-This suvery paper reviews the literature related to explainable AI in foundation models-based robotics.
+Explainable AI for Robotics in the Era of Foundation Models: A Survey
+
+Explainability is a critical aspect of AI-driven robotic systems, ensuring transparency, trust, and interpretability in decision-making processes. This repository provides a survey of literature related to explainable AI (XAI) in robotics.
 
 ## Contents
 - [Survey](#survey)
