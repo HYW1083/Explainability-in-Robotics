@@ -2,7 +2,19 @@
 This suvery paper reviews the literature related to explainable AI in foundation models-based robotics.
 
 ## Contents
-
+- [Survey](#survey)
+  - [Survey Papers](#survey-papers)
+- [Perception](#perception)
+  - [Vision](#vision)
+  - [Logs](#logs)
+  - [Audio](#audio)
+  - [Touch](#touch)
+  - [Sensor Fusion](#sensor-fusion)
+- [Planning](#planning)
+  - [Decision Making (Reasoning)](#decision-making-reasoning)
+  - [Knowledge-Based Reasoning](#knowledge-based-reasoning)
+  - [Chain of Thought](#chain-of-thought)
+- [Action](#action)
 ## Survey
 
 ### Suvey papers
