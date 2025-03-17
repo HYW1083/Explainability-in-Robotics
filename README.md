@@ -11,6 +11,7 @@ This suvery paper reviews the literature related to explainable AI in foundation
 |2022 | Advanced Robotics| [Explainable autonomous robots: a survey and perspective](https://doi.org/10.1080/01691864.2022.2029720) | University of Electro-Communications |
 |2023 | ACM Computing Surveys | [Explainable Goal-driven Agents and Robots - A Comprehensive Review](https://dl.acm.org/doi/pdf/10.1145/3564240)|University of Malaya |
 |2024 | ACM Computing Surveys | [Who’s in Charge Here? A Survey on Trustworthy AI in Variable Autonomy Robotic Systems](https://dl.acm.org/doi/pdf/10.1145/3645090) | Umeå University |
+|2024 |[IEEE TAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369) |[Explainable AI for Audio and Visual Affective Computing: A Scoping Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10766406) |Bielefeld University |
 |2025 | Arxiv | [Explainability for Vision Foundation Models: A Survey](https://arxiv.org/pdf/2501.12203)| Institut Polytechnique de Paris |
 
 
@@ -37,7 +38,8 @@ This suvery paper reviews the literature related to explainable AI in foundation
 
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  | | |
+|2023 |[ISER](https://link.springer.com/chapter/10.1007/978-3-031-63596-0_10) |[Audio Visual Language Maps for Robot Navigation](https://arxiv.org/pdf/2303.07522)  | [AVLMaps](https://avlmaps.github.io/) |University of Freiburg |
+
 
 #### Touch
 
