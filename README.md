@@ -68,6 +68,9 @@ This suvery paper reviews the literature related to explainable AI in foundation
 | ---- | ---- | ---- | ---- | ---- |
 | 2024 | [EAAI](https://doi.org/10.1201/9781003355281) | [Integrated Knowledge-Based Reasoning and Data-Driven Learning for Explainable Agency in Robotics](https://homepages.inf.ed.ac.uk/msridhar/Papers/bookchap23_explAgencyRobotics.pdf)| | University of Birmingham |
 
+#### Chain of Thought
+| Date | Venue  | Paper | Project | Institution | 
+| ---- | ---- | ---- | ---- | ---- |
 
 ### Action
 | Date | Venue  | Paper | Project | Institution | 
