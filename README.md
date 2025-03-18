@@ -38,15 +38,15 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2023  | CVPR |  [CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) |[CoW](https://cow.cs.columbia.edu/) | Columbia University |
 |2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
 |2025 | [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
-|2025 | CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://gitlab.iit.it/cognitiveInteraction/explainablemultipartyconversationCVIU.git) | Italian Institute of Technology |
 |2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
 
 #### Logs
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
-|2024 | Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of Leon |
-|2024 | Arxiv|  [Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | | University of Leon |
-
+|2023 |[HAIS](https://link.springer.com/conference/hais) | [Using Large Language Models for Interpreting Autonomous Robots Behaviors](https://arxiv.org/pdf/2304.14844)| |University of León |
+|2024 |Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of León |
+|2024 |Arxiv|[Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | | University of León |
+|2024 |Arxiv|[Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models](https://arxiv.org/pdf/2403.09567)| | University of León|
 
 #### Audio
 
@@ -54,7 +54,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 | ---- | ---- | ---- | ---- | ---- |
 |2023 |[ROMAN](https://ieeexplore.ieee.org/xpl/conhome/10309296/proceeding)  | [Designing Visual and Auditory Attention-Driven Movements of a Tabletop Robot](https://ieeexplore.ieee.org/iel7/10309296/10309265/10309568.pdf) | |Honda Research |
 |2023 |[ISER](https://link.springer.com/chapter/10.1007/978-3-031-63596-0_10) |[Audio Visual Language Maps for Robot Navigation](https://arxiv.org/pdf/2303.07522)  | [AVLMaps](https://avlmaps.github.io/) |University of Freiburg |
-
+|2025 | CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://zenodo.org/records/14833239) | Italian Institute of Technology |
 
 #### Touch
 
