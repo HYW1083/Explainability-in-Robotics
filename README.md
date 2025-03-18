@@ -55,7 +55,8 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 | ---- | ---- | ---- | ---- | ---- |
 |2023 |[ROMAN](https://ieeexplore.ieee.org/xpl/conhome/10309296/proceeding)  | [Designing Visual and Auditory Attention-Driven Movements of a Tabletop Robot](https://ieeexplore.ieee.org/iel7/10309296/10309265/10309568.pdf) | |Honda Research |
 |2023 |[ISER](https://link.springer.com/chapter/10.1007/978-3-031-63596-0_10) |[Audio Visual Language Maps for Robot Navigation](https://arxiv.org/pdf/2303.07522)  | [AVLMaps](https://avlmaps.github.io/) |University of Freiburg |
-|2025 | CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://zenodo.org/records/14833239) | Italian Institute of Technology |
+|2024 |AIiH |[Interpreting Pretrained Speech Models for Automatic Speech Assessment of Voice Disorders](https://arxiv.org/pdf/2407.00531)| |University of Wales Trinty Saint David| 
+|2025 |CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://zenodo.org/records/14833239) | Italian Institute of Technology |
 
 #### Touch
 
