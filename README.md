@@ -13,7 +13,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
   - [Touch](#touch)
   - [Sensor Fusion](#sensor-fusion)
 - [Planning](#planning)
-  - [Decision Making (Reasoning)](#decision-making-reasoning)
+  - [Decision Making](#decision-making)
   - [Knowledge-Based Reasoning](#knowledge-based-reasoning)
   - [Chain of Thought](#chain-of-thought)
 - [Action](#action)
@@ -71,7 +71,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 
 ### Planning
 
-#### Decision making (Reasoning)
+#### Decision making
 
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
