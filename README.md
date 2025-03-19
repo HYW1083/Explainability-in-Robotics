@@ -10,8 +10,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
   - [Vision](#vision)
   - [Logs](#logs)
   - [Audio](#audio)
-  - [Touch](#touch)
-  - [Sensor Fusion](#sensor-fusion)
+  - [Others](#Others)
 - [Planning](#planning)
   - [Decision Making](#decision-making)
   - [Knowledge-Based Reasoning](#knowledge-based-reasoning)
@@ -58,17 +57,12 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2024 |AIiH |[Interpreting Pretrained Speech Models for Automatic Speech Assessment of Voice Disorders](https://arxiv.org/pdf/2407.00531)| |University of Wales Trinty Saint David| 
 |2025 |CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://zenodo.org/records/14833239) | Italian Institute of Technology |
 
-#### Touch
-
-| Date | Venue  | Paper | Project | Institution | 
-| ---- | ---- | ---- | ---- | ---- |
-|  |  |  | |
-
-#### Senor Fusion
+#### Others
 
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2022 | CoRL | [Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://proceedings.mlr.press/v205/shao23a/shao23a.pdf)| [InterFuser](https://github.com/opendilab/InterFuser)|SenseTime Research|
+|2025  |Applied Sciences |[Explainable AI-Enhanced Human Activity Recognition for Human–Robot Collaboration in Agriculture](http://dx.doi.org/10.3390/app15020650) | |CERTH|
 |2025 | Information Fusion  | [SaliencyI2PLoc: Saliency-guided image–point cloud localization using contrastive learning](https://doi.org/10.1016/j.inffus.2025.103015) | [SaliencyI2PLoc](https://whu-lyh.github.io/SaliencyI2PLoc/) |Wuhan University|
 
 ### Planning
@@ -77,6 +71,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
+|2022 |RO-MAN |[Explain yourself! Effects of Explanations in Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9900558)| |Universitat Hamburg|
 |2024 | RLC  | [Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://arxiv.org/pdf/2407.08065)| DPP | Tufts University |
 |2024  | Arxiv| [Social-LLaVA: Enhancing Robot Navigation through Human-Language  Reasoning in Social Spaces](https://arxiv.org/pdf/2501.09024) |[Social-LLaVA](https://cs.gmu.edu/~xiao/Research/SNEI/)  | George Mason University  |
 |2024 | Arxiv |[Trustworthy Conceptual Explanations for Neural Networks in Robot Decision-Making](https://arxiv.org/pdf/2409.10733)|[BaTCAVe](https://github.com/aditya-taparia/BaTCAVe)| Arizona State University |
