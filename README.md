@@ -71,6 +71,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
+|2021 |ACM HRI |[Explainable AI for Robot Failures: Generating Explanations that Improve User Assistance in Fault Recovery](https://dl.acm.org/doi/pdf/10.1145/3434073.3444657) | | Georgia Institute of Technology|
 |2022 |RO-MAN |[Explain yourself! Effects of Explanations in Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9900558)| |Universitat Hamburg|
 |2024 | RLC  | [Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://arxiv.org/pdf/2407.08065)| DPP | Tufts University |
 |2024  | Arxiv| [Social-LLaVA: Enhancing Robot Navigation through Human-Language  Reasoning in Social Spaces](https://arxiv.org/pdf/2501.09024) |[Social-LLaVA](https://cs.gmu.edu/~xiao/Research/SNEI/)  | George Mason University  |
