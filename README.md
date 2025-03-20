@@ -66,7 +66,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2025 | Information Fusion  | [SaliencyI2PLoc: Saliency-guided image–point cloud localization using contrastive learning](https://doi.org/10.1016/j.inffus.2025.103015) | [SaliencyI2PLoc](https://whu-lyh.github.io/SaliencyI2PLoc/) |Wuhan University|
 
 ### Planning
-
+(log-based explanation and model-based explanation)
 #### Decision making
 
 | Date | Venue  | Paper | Project | Institution | 
