@@ -77,6 +77,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2024  | Arxiv| [Social-LLaVA: Enhancing Robot Navigation through Human-Language  Reasoning in Social Spaces](https://arxiv.org/pdf/2501.09024) |[Social-LLaVA](https://cs.gmu.edu/~xiao/Research/SNEI/)  | George Mason University  |
 |2024 | Arxiv |[Trustworthy Conceptual Explanations for Neural Networks in Robot Decision-Making](https://arxiv.org/pdf/2409.10733)|[BaTCAVe](https://github.com/aditya-taparia/BaTCAVe)| Arizona State University |
 |2024 |[Front.Robot.AI](https://www.frontiersin.org/journals/robotics-and-ai) |[ExTraCT – Explainable trajectory corrections for language-based human-robot interaction using textual feature descriptions](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1345693/full)|ExTraCT|Nanyang Technological University|
+|2024 |NeurIPS|[RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/pdf/2406.04339)|[RoboMamba](https://sites.google.com/view/robomamba-web)|BAAI|
 |2025 | ICRA | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|Language to Map |Toyota|
 |2025 | Arxiv|[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](https://arxiv.org/pdf/2502.14420) |[ChatVLA](https://chatvla.github.io/) |Midea Group |
 
