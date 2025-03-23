@@ -40,13 +40,6 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2025 | [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
 |2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
 
-#### Logs
-| Date | Venue  | Paper | Project | Institution | 
-| ---- | ---- | ---- | ---- | ---- |
-|2023 |[HAIS](https://link.springer.com/conference/hais) | [Using Large Language Models for Interpreting Autonomous Robots Behaviors](https://arxiv.org/pdf/2304.14844)| |University of León |
-|2024 |Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of León |
-|2024 |Arxiv|[Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | | University of León |
-|2024 |Arxiv|[Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models](https://arxiv.org/pdf/2403.09567)| | University of León|
 
 #### Audio
 
@@ -66,9 +59,8 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2025 | Information Fusion  | [SaliencyI2PLoc: Saliency-guided image–point cloud localization using contrastive learning](https://doi.org/10.1016/j.inffus.2025.103015) | [SaliencyI2PLoc](https://whu-lyh.github.io/SaliencyI2PLoc/) |Wuhan University|
 
 ### Task Planning
-(log-based explanation and model-based explanation)
-#### Decision making
 
+#### Resoning Explanation
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2021 |ACM HRI |[Explainable AI for Robot Failures: Generating Explanations that Improve User Assistance in Fault Recovery](https://dl.acm.org/doi/pdf/10.1145/3434073.3444657) | | Georgia Institute of Technology|
@@ -80,6 +72,16 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2024 |NeurIPS|[RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/pdf/2406.04339)|[RoboMamba](https://sites.google.com/view/robomamba-web)|BAAI|
 |2025 | ICRA | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|Language to Map |Toyota|
 |2025 | Arxiv|[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](https://arxiv.org/pdf/2502.14420) |[ChatVLA](https://chatvla.github.io/) |Midea Group |
+
+#### Logs-based Explanation
+| Date | Venue  | Paper | Project | Institution | 
+| ---- | ---- | ---- | ---- | ---- |
+|2023 |[HAIS](https://link.springer.com/conference/hais) | [Using Large Language Models for Interpreting Autonomous Robots Behaviors](https://arxiv.org/pdf/2304.14844)| |University of León |
+|2024 |Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of León |
+|2024 |Arxiv|[Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | | University of León |
+|2024 |Arxiv|[Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models](https://arxiv.org/pdf/2403.09567)| | University of León|
+
+
 
 #### Kownleged-based reasoning
 | Date | Venue  | Paper | Project | Institution | 
