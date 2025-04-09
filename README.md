@@ -59,6 +59,8 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 #### Point Cloud
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
+|2020 |ijcnn |[3D Point Cloud Feature Explanations Using Gradient-Based Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9206688)||The University of Manchester|
+|2022 | WACV |[Surrogate Model-Based Explainability Methods for Point Cloud NNs](http://openaccess.thecvf.com/content/WACV2022/papers/Tan_Surrogate_Model-Based_Explainability_Methods_for_Point_Cloud_NNs_WACV_2022_paper.pdf)|[LIME-3D](https://github.com/Explain3D/LIME-3D) |TU Dortmund|
 |2023 | WACV |[Fractual projection forest: Fast and explainable point cloud classifier](https://openaccess.thecvf.com/content/WACV2023/papers/Tan_Fractual_Projection_Forest_Fast_and_Explainable_Point_Cloud_Classifier_WACV_2023_paper.pdf)|[FPF](https://github.com/Explain3D/FracProjForest)|TU Dortmund|
 
 #### Others
