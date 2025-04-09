@@ -75,6 +75,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 #### Resoning Explanation
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
+|2021 |ICRA |[Towards providing explanations for robot motion planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562003) | |King’s College London|
 |2021 |ACM HRI |[Explainable AI for Robot Failures: Generating Explanations that Improve User Assistance in Fault Recovery](https://dl.acm.org/doi/pdf/10.1145/3434073.3444657) | | Georgia Institute of Technology|
 |2022 |RO-MAN |[Explain yourself! Effects of Explanations in Human-Robot Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9900558)| |Universitat Hamburg|
 |2024 | RLC  | [Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach](https://arxiv.org/pdf/2407.08065)| DPP | Tufts University |
