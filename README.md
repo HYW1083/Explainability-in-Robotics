@@ -42,6 +42,11 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
 
 
+
+#### Text
+|2024| IROS |[Multimodal Coherent Explanation Generation of Robot Failures](https://ieeexplore.ieee.org/abstract/document/10802671) |[multimodal explanation](https://pradippramanick.github.io/coherent-explain/) |University of Naples Federico II|
+
+
 #### Audio
 
 | Date | Venue  | Paper | Project | Institution | 
