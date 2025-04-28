@@ -37,6 +37,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 | ---- | ---- | ---- | ---- | ---- |
 |2023  | CVPR |  [CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf) |[CoW](https://cow.cs.columbia.edu/) | Columbia University |
 |2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
+|2024 |DICTA |[Towards Explainability of Affordance Learning in Robot Vision](https://ieeexplore.ieee.org/document/10869607) |[affordance-xai](https://github.com/ai-voyage/affordance-xai)|Edith Cowan University|
 |2025 | [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
 |2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
 
@@ -83,6 +84,7 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2024 | Arxiv |[Trustworthy Conceptual Explanations for Neural Networks in Robot Decision-Making](https://arxiv.org/pdf/2409.10733)|[BaTCAVe](https://github.com/aditya-taparia/BaTCAVe)| Arizona State University |
 |2024 |[Front.Robot.AI](https://www.frontiersin.org/journals/robotics-and-ai) |[ExTraCT – Explainable trajectory corrections for language-based human-robot interaction using textual feature descriptions](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1345693/full)|ExTraCT|Nanyang Technological University|
 |2024 |NeurIPS|[RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/pdf/2406.04339)|[RoboMamba](https://sites.google.com/view/robomamba-web)|BAAI|
+|2024| IROS |[DiaGBT: An Explainable and Evolvable Robot Control Framework using Dialogue Generative Behavior Trees](https://ieeexplore.ieee.org/document/10801472)|[DiaGBT](https://github.com/jayden-leo/dia-gbt) |University of Electronic Science and Technology of China|
 |2025 | ICRA | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|Language to Map |Toyota|
 |2025 | Arxiv|[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](https://arxiv.org/pdf/2502.14420) |[ChatVLA](https://chatvla.github.io/) |Midea Group |
 
