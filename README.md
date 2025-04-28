@@ -44,6 +44,8 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 
 
 #### Text
+| Date | Venue  | Paper | Project | Institution | 
+| ---- | ---- | ---- | ---- | ---- |
 |2024| IROS |[Multimodal Coherent Explanation Generation of Robot Failures](https://ieeexplore.ieee.org/abstract/document/10802671) |[multimodal explanation](https://pradippramanick.github.io/coherent-explain/) |University of Naples Federico II|
 
 
