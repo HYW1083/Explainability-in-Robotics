@@ -14,7 +14,7 @@
 |2025 | Arxiv | [Explainability for Vision Foundation Models: A Survey](https://arxiv.org/pdf/2501.12203)| Institut Polytechnique de Paris |
 
 
-### Perception
+### Explainability in Perception
 
 #### Vision
 
@@ -62,9 +62,9 @@
 |2025  |Applied Sciences |[Explainable AI-Enhanced Human Activity Recognition for Human–Robot Collaboration in Agriculture](http://dx.doi.org/10.3390/app15020650) | |CERTH|
 |2025 | Information Fusion  | [SaliencyI2PLoc: Saliency-guided image–point cloud localization using contrastive learning](https://doi.org/10.1016/j.inffus.2025.103015) | [SaliencyI2PLoc](https://whu-lyh.github.io/SaliencyI2PLoc/) |Wuhan University|
 
-### Task Planning
+### Explainable Planning
 
-#### Resoning Explanation
+#### Explanation generation
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2021 |ICRA |[Towards providing explanations for robot motion planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562003) | |King’s College London|
@@ -87,8 +87,6 @@
 |2024 |Arxiv|[Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models](https://arxiv.org/pdf/2402.04206) | | University of León |
 |2024 |Arxiv|[Enhancing Robot Explanation Capabilities through Vision-Language Models: a Preliminary Study by Interpreting Visual Inputs for Improved Human-Robot Interaction](https://arxiv.org/pdf/2404.09705) | | University of León |
 |2024 |Arxiv|[Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models](https://arxiv.org/pdf/2403.09567)| | University of León|
-
-
 
 #### Kownleged-based reasoning
 | Date | Venue  | Paper | Project | Institution | 
