@@ -1,21 +1,6 @@
 # Explainability-in-Robotics
-Explainable AI for Robotics in the Era of Foundation Models: A Survey
 
-Explainability is a critical aspect of AI-driven robotic systems, ensuring transparency, trust, and interpretability in decision-making processes. This repository provides a survey of literature related to explainable AI (XAI) in robotics.
 
-## Contents
-- [Survey](#survey)
-  - [Survey Papers](#survey-papers)
-- [Perception](#perception)
-  - [Vision](#vision)
-  - [Logs](#logs)
-  - [Audio](#audio)
-  - [Others](#Others)
-- [Planning](#planning)
-  - [Decision Making](#decision-making)
-  - [Knowledge-Based Reasoning](#knowledge-based-reasoning)
-  - [Chain of Thought](#chain-of-thought)
-- [Action](#action)
 ## Survey
 
 ### Suvey papers
@@ -40,7 +25,6 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 |2024 |DICTA |[Towards Explainability of Affordance Learning in Robot Vision](https://ieeexplore.ieee.org/document/10869607) |[affordance-xai](https://github.com/ai-voyage/affordance-xai)|Edith Cowan University|
 |2025 | [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
 |2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
-
 
 
 #### Text
@@ -111,13 +95,6 @@ Explainability is a critical aspect of AI-driven robotic systems, ensuring trans
 | ---- | ---- | ---- | ---- | ---- |
 | 2024 | [EAAI](https://doi.org/10.1201/9781003355281) | [Integrated Knowledge-Based Reasoning and Data-Driven Learning for Explainable Agency in Robotics](https://homepages.inf.ed.ac.uk/msridhar/Papers/bookchap23_explAgencyRobotics.pdf)| | University of Birmingham |
 
-#### Chain of Thought
-| Date | Venue  | Paper | Project | Institution | 
-| ---- | ---- | ---- | ---- | ---- |
-
-### Action Generation
-| Date | Venue  | Paper | Project | Institution | 
-| ---- | ---- | ---- | ---- | ---- |
 
 
 
