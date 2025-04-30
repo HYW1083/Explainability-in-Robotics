@@ -24,6 +24,7 @@
 |2024 | IROS |  [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and  Object Localization Probability Maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10802008) | VLPG-Nav | Amazon |
 |2024 |DICTA |[Towards Explainability of Affordance Learning in Robot Vision](https://ieeexplore.ieee.org/document/10869607) |[affordance-xai](https://github.com/ai-voyage/affordance-xai)|Edith Cowan University|
 |2025 | Arxiv |[Tell me why:  Visual foundation models as self-explainable classifiers](https://arxiv.org/abs/2502.19577) |[ProtoFM](https://github.com/hturbe/proto-fm)| University of Geneva |
+|2025 | Arxiv |[Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments](https://arxiv.org/pdf/2503.09820)|code|University of Maryland, College Park|
 
 
 #### Text
