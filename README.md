@@ -42,7 +42,7 @@
 |2024 |AIiH |[Interpreting Pretrained Speech Models for Automatic Speech Assessment of Voice Disorders](https://arxiv.org/pdf/2407.00531)| |University of Wales Trinty Saint David| 
 |2025 |CVIU |[A multi-modal explainability approach for human-aware robots in multi-party conversation](https://doi.org/10.1016/j.cviu.2025.104304) | [Code](https://zenodo.org/records/14833239) | Italian Institute of Technology |
 
-#### Tectile
+#### Tactile
 
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
