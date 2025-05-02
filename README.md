@@ -28,12 +28,6 @@
 |2025 | Arxiv |[Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments](https://arxiv.org/pdf/2503.09820)|code|University of Maryland, College Park|
 
 
-#### Text
-| Date | Venue  | Paper | Project | Institution | 
-| ---- | ---- | ---- | ---- | ---- |
-|2024| IROS |[Multimodal Coherent Explanation Generation of Robot Failures](https://ieeexplore.ieee.org/abstract/document/10802671) |[multimodal explanation](https://pradippramanick.github.io/coherent-explain/) |University of Naples Federico II|
-
-
 #### Audio
 
 | Date | Venue  | Paper | Project | Institution | 
@@ -50,7 +44,7 @@
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2021 |IROS |[On Explainability and Sensor-Adaptability of a Robot Tactile Texture Representation Using a Two-Stage Recurrent Networks](https://doi.org/10.1109/IROS51168.2021.9636380) |[ExSARN](https://github.com/dexrob/ExSARN)|ASTAR|
-
+|2024 |IROS |[Attention for Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control](https://arxiv.org/pdf/2307.14510)|[PROJECT](https://sites.google.com/view/tactile-saliency/) |University of  Bristol|
 #### Point Cloud
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
@@ -80,6 +74,7 @@
 |2024| CoRL| [I Can Tell What I Am Doing: Toward Real-World Natural Language Grounding of Robot Experiences](https://openreview.net/pdf?id=iZF0FRPgfq)|[RONAR](https://sites.google.com/view/real-world-robot-narration/home) |University of Washington|
 |2024 |NeurIPS|[RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/pdf/2406.04339)|[RoboMamba](https://sites.google.com/view/robomamba-web)|BAAI|
 |2024| IROS |[DiaGBT: An Explainable and Evolvable Robot Control Framework using Dialogue Generative Behavior Trees](https://ieeexplore.ieee.org/document/10801472)|[DiaGBT](https://github.com/jayden-leo/dia-gbt) |University of Electronic Science and Technology of China|
+|2024| IROS |[Multimodal Coherent Explanation Generation of Robot Failures](https://ieeexplore.ieee.org/abstract/document/10802671) |[multimodal explanation](https://pradippramanick.github.io/coherent-explain/) |University of Naples Federico II|
 |2025 | [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [Integrating Belief-Desire-Intention agents with large language models for reliable human–robot interaction and explainable Artificial Intelligence](https://doi.org/10.1016/j.engappai.2024.109771) |  | BOKU University |
 |2025 | ICRA | [Language to Map: Topological map generation from natural language path instructions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611377)|Language to Map |Toyota|
 |2025 | Arxiv|[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](https://arxiv.org/pdf/2502.14420) |[ChatVLA](https://chatvla.github.io/) |Midea Group |
