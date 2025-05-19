@@ -59,6 +59,7 @@
 |2025  |Applied Sciences |[Explainable AI-Enhanced Human Activity Recognition for Human–Robot Collaboration in Agriculture](http://dx.doi.org/10.3390/app15020650) | |CERTH|
 |2025 | Information Fusion  | [SaliencyI2PLoc: Saliency-guided image–point cloud localization using contrastive learning](https://doi.org/10.1016/j.inffus.2025.103015) | [SaliencyI2PLoc](https://whu-lyh.github.io/SaliencyI2PLoc/) |Wuhan University|
 |2025 |ArXiv |[Realistic Counterfactual Explanations for Machine Learning-Controlled Mobile Robots using 2D LiDAR](https://arxiv.org/pdf/2505.06906v1)|  |Norwegian University of Science and Technology|
+|2025 |Sensors | [Exploring the Unseen: A Survey of Multi-Sensor Fusion and the Role of Explainable AI (XAI) in Autonomous Vehicles](https://www.mdpi.com/1424-8220/25/3/856)| | Munster Technological University|
 ### Explainable Planning
 
 #### Explanation generation
