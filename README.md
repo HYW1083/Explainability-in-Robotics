@@ -44,7 +44,9 @@
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2021 |IROS |[On Explainability and Sensor-Adaptability of a Robot Tactile Texture Representation Using a Two-Stage Recurrent Networks](https://doi.org/10.1109/IROS51168.2021.9636380) |[ExSARN](https://github.com/dexrob/ExSARN)|ASTAR|
+|2022 |ICAC |[Graph Neural Networks for Interpretable Tactile Sensing](https://ieeexplore.ieee.org/iel7/9911058/9911059/09911130.pdf?casa_token=TMLZrFE7GhYAAAAA:-wP8_VO3Yuc4PDjCJRRRuMJey2YUZhYptaTxwgX7OhotV8yJ_ut-9TKk83O3rKw7FOKEiBaQLco)| | University of  Bristol|
 |2024 |IROS |[Attention for Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control](https://arxiv.org/pdf/2307.14510)|[PROJECT](https://sites.google.com/view/tactile-saliency/) |University of  Bristol|
+
 #### Point Cloud
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
