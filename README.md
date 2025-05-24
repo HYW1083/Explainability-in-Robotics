@@ -58,6 +58,7 @@
 | Date | Venue  | Paper | Project | Institution | 
 | ---- | ---- | ---- | ---- | ---- |
 |2022 | CoRL | [Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://proceedings.mlr.press/v205/shao23a/shao23a.pdf)| [InterFuser](https://github.com/opendilab/InterFuser)|SenseTime Research|
+|2022 | ArXiv|[Visuo-Tactile Transformers for Manipulation](https://arxiv.org/pdf/2210.00121) |[VTT](https://www.mmintlab.com/vtt)|University of Michigan Ann Arbor|
 |2025  |Applied Sciences |[Explainable AI-Enhanced Human Activity Recognition for Human–Robot Collaboration in Agriculture](http://dx.doi.org/10.3390/app15020650) | |CERTH|
 |2025 | Information Fusion  | [SaliencyI2PLoc: Saliency-guided image–point cloud localization using contrastive learning](https://doi.org/10.1016/j.inffus.2025.103015) | [SaliencyI2PLoc](https://whu-lyh.github.io/SaliencyI2PLoc/) |Wuhan University|
 |2025 |ArXiv |[Realistic Counterfactual Explanations for Machine Learning-Controlled Mobile Robots using 2D LiDAR](https://arxiv.org/pdf/2505.06906v1)|  |Norwegian University of Science and Technology|
